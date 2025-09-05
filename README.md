@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Привет, я spaarkls
 
-<!--
-**spaarkls/spaarkls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spaarkls&layout=compact&hide_border=true&hide=jupyter%20notebook,vue,javascript,css,html,roff,scss&theme=dark)](https://github.com/spaarkls?tab=repositories)
+
+---
+
+## ⚡ О себе
+
+Системный программист-энтузиаст. Практикую разработку для Linux/UNIX, сетевое программирование (TCP/IP, сокеты) и автоматизацию (CLI-утилиты, Bash).  
+Люблю решать задачи, связанные с инфраструктурой, оптимизацией и созданием инструментов для разработчиков.
+
+---
+
+## 🔗 Основные направления
+
+- **Системное программирование:** Linux/UNIX, TCP/IP, сокеты
+- **Автоматизация:** CLI-утилиты, Bash, автоматизация задач
+- **Контроль версий:** Git
+
+---
+
+## 💬 Контакты
+
+[GitHub](https://github.com/spaarkls)
+
+---
