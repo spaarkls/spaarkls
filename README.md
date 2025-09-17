@@ -26,5 +26,4 @@
 ## 💬 Контакты
 
 [GitHub](https://github.com/spaarkls)
-
 ---
